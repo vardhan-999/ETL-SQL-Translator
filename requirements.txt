@@ -1,0 +1,5 @@
+streamlit
+sqlglot
+pandas
+pytest
+python-dotenv
