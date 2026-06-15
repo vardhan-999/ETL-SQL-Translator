@@ -65,6 +65,6 @@ The ETL SQL Translator successfully converts SQL queries between different diale
 
 ## Team Resumes
 
-- 📄 [Praveena Resume](Team_Resumes/praveena.pdf)
-- 📄 [Vardhan Resume](Team_Resumes/vardhan.pdf)
-- 📄 [Yamini Vaddi Resume](Team_Resumes/yamini.pdf)
+- 📄 [Praveena Resume](Team_Resumes/praveena)
+- 📄 [Vardhan Resume](Team_Resumes/vardhan)
+- 📄 [Yamini Vaddi Resume](Team_Resumes/yamini)
