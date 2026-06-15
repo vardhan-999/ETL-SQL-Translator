@@ -61,5 +61,5 @@ prototype : https://etl-sql-translator-v6qgveqzbncqiwaqrxmuul.streamlit.app/
 
 The ETL SQL Translator successfully converts SQL queries between different dialects.
 
-![ETL SQL Translator Output](etl_sql_translatot_output.png)
+etl_sql_translatot_output.png.jpeg
 
