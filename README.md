@@ -54,3 +54,11 @@ streamlit run app.py
 
 ## prototype
 prototype : https://etl-sql-translator-v6qgveqzbncqiwaqrxmuul.streamlit.app/
+
+## Output
+
+### ETL SQL Translation Result
+
+The ETL SQL Translator successfully converts SQL queries between different dialects.
+
+![ETL SQL Translator Output](screenshots/etl_output.png)
