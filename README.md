@@ -51,3 +51,6 @@ streamlit run app.py
 - Support for more complex schema translations (e.g., triggers, stored procedures).
 - Integration with more databases (e.g., Oracle, SQL Server).
 - Live execution of translated queries against a target database.
+
+## prototype
+prototype : https://etl-sql-translator-v6qgveqzbncqiwaqrxmuul.streamlit.app/
